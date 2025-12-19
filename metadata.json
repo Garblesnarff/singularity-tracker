@@ -1,0 +1,5 @@
+{
+  "name": "Synthetix - Tech Synthesis Parser",
+  "description": "An intelligent tool to parse, categorize, and visualize daily tech synthesis posts using Gemini 3.",
+  "requestFramePermissions": []
+}
